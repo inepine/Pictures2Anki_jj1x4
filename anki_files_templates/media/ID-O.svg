@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="$count_px_x" height="$count_px_y">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="$ID" height="$height" width="$width" y="$y" x="$x" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
